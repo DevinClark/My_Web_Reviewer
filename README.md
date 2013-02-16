@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Web Reviewer
 TODO: Add better name  
 This is a very simple node.js application that allows me to easily test responsive web designs by generating screenshots at common resolutions. You can add more resolutions if you want. If I am missing some, feel free to submit a pull request. I plan on adding more features as I go along and use it more.
@@ -10,3 +11,7 @@ This is a very simple node.js application that allows me to easily test responsi
 * Change the url to your url or add additional urls.
 * `cd` into the project directory and run the application by typing `node app.js`.
 * Navigate to [http://localhost:4000](http://localhost:4000) in your browser.
+=======
+My_Web_Reviewer
+===============
+>>>>>>> 873b39d48761fc285a479a176526856165b979cd
