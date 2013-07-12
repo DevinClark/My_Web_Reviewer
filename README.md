@@ -4,7 +4,7 @@ This is a very simple node.js application that allows me to easily test responsi
 
 ## Requires
 * PhantomJs - `brew install phantomjs`
-* Review - `npm install brew`
+* Review - `npm install review`
 
 ## To Use
 * Change the url to your url or add additional urls.
